@@ -1,0 +1,1 @@
+a = int(input("Vnesi prvo celo število: "))
